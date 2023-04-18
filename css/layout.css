@@ -139,7 +139,7 @@ header .scrolldown a:hover { color: #D2984F; }
    position: fixed;
    left: 0;
    top: 0;
-   background-color:black;
+   background-color:black !important;
 }
 .opaque { background-color: black; }
 
